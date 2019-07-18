@@ -1,6 +1,3 @@
 {
-  "compilerOptions": {
-    "module": "commonjs"
-  },
   "include": ["src/.keep.ts", "src/**/*"]
 }
